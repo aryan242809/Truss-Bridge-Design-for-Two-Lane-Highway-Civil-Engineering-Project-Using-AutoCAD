@@ -1,0 +1,2 @@
+# Truss-Bridge-Design-for-Two-Lane-Highway-Civil-Engineering-Project-Using-AutoCAD
+This repository presents the complete design, analysis, and evaluation of a truss bridge developed for a two-lane highway crossing a river valley, in line with the Australian bridge design standards. The project covers multiple aspects including conceptual modeling, structural analysis, environmental impact assessment, cost estimation .
